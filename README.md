@@ -1,4 +1,4 @@
-## Hello! I am actively seeking SWE opportunity starting December'20. If you would like to discuss or know anything about my projects or just have a conversation about software development in general, you can DM me or reach me at darshselarka14@gmail.com
+## Hello! I am actively seeking SWE opportunity. If you would like to discuss or know anything about my projects or just have a conversation about software development in general, you can DM me or reach me at darshselarka14@gmail.com
 
 <!--
 **darshselarka1497/darshselarka1497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
