@@ -2,8 +2,8 @@
 <h3 align="center">CS @ Indiana University, Bloomington (Graduating December 2020) </h3>
 <h3 align="center">HelloWorld enthusiast!</h3>
 <p align="center">
-<a href=mailto:dselarka@iu.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="darshselarka1497" height="25" width="25" /></a>
-<a href=https://linkedin.com/in/darshselarka target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="darshselarka1497" height="25" width="25" /></a>
+<a href=mailto:dselarka@iu.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="darshselarka1497" height="25" width="25" /></a>&emsp;
+<a href=https://linkedin.com/in/darshselarka target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="darshselarka1497" height="25" width="25" /></a>&emsp;
 <a href=https://darshselarka.me target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="darshselarka1497" height="25" width="25" /></a>
 </p>
 <p>
