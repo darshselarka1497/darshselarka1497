@@ -13,7 +13,7 @@
 
 - 💬 If you would like to discuss or know anything about my projects or just have a conversation about software development in general, you can DM me or reach me at dselarka@iu.edu
 
-<!-- - 🚙 Come play Rocket League with me; shoot me a message if you're looking to grind to champ -->
+<!-- - 🚙 -->
 </p>
 
 
