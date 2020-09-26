@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, It's Darsh</h1>
 <h3 align="center">CS @ Indiana University, Bloomington (Graduating December 2020) </h3>
-<h3 align="center">HelloWorld Enthusiast</h3>
+<h3 align="center">HelloWorld enthusiast!</h3>
 <p align="center">
-<a href=mailto:dselarka@iu.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="darshselarka1497" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/darshselarka target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="darshselarka1497" height="20" width="20" /></a>
-<a href=https://darshselarka.me target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="darshselarka1497" height="20" width="20" /></a>
+<a href=mailto:dselarka@iu.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="darshselarka1497" height="25" width="25" /></a>
+<a href=https://linkedin.com/in/darshselarka target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="darshselarka1497" height="25" width="25" /></a>
+<a href=https://darshselarka.me target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="darshselarka1497" height="25" width="25" /></a>
 </p>
 <p>
   <img src="https://user-images.githubusercontent.com/194400/32239666-10da8f34-be63-11e7-928f-c00f552dd2c5.png" width="400" align="right">
