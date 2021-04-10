@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, It's Darsh</h1>
 <h3 align="center">Computer Science @ Indiana University, Bloomington (Graduated December 2020) </h3>
-<h3 align="center">Currently working as a Product Engineer at D Cube Analytics </h3>
 <h3 align="center">HelloWorld enthusiast!</h3>
 <p align="center">
 <a href=mailto:dselarka@iu.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="darshselarka1497" height="25" width="25" /></a>&emsp;
