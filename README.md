@@ -8,10 +8,6 @@
 </p>
 <p>
   <img src="https://user-images.githubusercontent.com/194400/32239666-10da8f34-be63-11e7-928f-c00f552dd2c5.png" width="400" align="right">
-  
-- 👷‍ I’m currently looking for full-time SWE opportunity; check out my <a href="https://www.darshselarka.me"> website</a>
-
-- 💬 If you would like to discuss or know anything about my projects or just have a conversation about software development in general, you can DM me or reach me at dselarka@iu.edu
 
 <!-- - 🚙 -->
 </p>
