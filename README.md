@@ -6,7 +6,7 @@
 <a href=https://linkedin.com/in/darshselarka target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="darshselarka1497" height="25" width="25" /></a>&emsp;
 <a href=https://darshselarka.me target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="darshselarka1497" height="25" width="25" /></a>
 </p>
-<p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/194400/32239666-10da8f34-be63-11e7-928f-c00f552dd2c5.png" width="400" align="right">
 
 <!-- - 🚙 -->
